@@ -1,4 +1,4 @@
 TestRepo
 ========
 
-Repository for playing around to learn to know git.
+Repository for playing around and learn to know git.
